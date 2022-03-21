@@ -6,7 +6,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’am a Junior Data Scienctist my Bachelors in Information Technology <strong>( IT ) </strong> From <strong> University of Sindh Jamshoro </strong>. </br>
+🎓 I’am a Junior Data Scientist my Bachelors in Information Technology <strong>( IT ) </strong> From <strong> University of Sindh Jamshoro </strong>. </br>
 👨‍💻  I am passionate about Natural Language Processing & computer vision, Machine Learning & I enjoy learning new things about AI. </br>
 
 ### Skills 🎓

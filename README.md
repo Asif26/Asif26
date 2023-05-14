@@ -23,7 +23,7 @@
 - Communication
 
 [instagram]:https://www.instagram.com/asifbashirkhuharo/
-[linkedin]: https://www.linkedin.com/in/asif-ali-9294201b2/
+[linkedin]: https://www.linkedin.com/in/asifalikhuharo/
 [twitter]: https://twitter.com/AsifBas54846441
 
 

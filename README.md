@@ -6,18 +6,21 @@
 <br />
 
 ### About Me 🚀
-🎓 I’am a Junior Data Scientist my Bachelors in Information Technology <strong>( IT ) </strong> From <strong> University of Sindh Jamshoro </strong>. </br>
-👨‍💻  I am passionate about Natural Language Processing & computer vision, Machine Learning & I enjoy learning new things about AI. </br>
+🎓 I am a passionate and results-driven data analyst and frontend developer with a strong background in information technology. I have a solid foundation in programming languages and data analysis techniques, which allows me to extract valuable insights from complex datasets. My expertise lies in creating intuitive and visually appealing web applications using modern frontend technologies. I am dedicated to delivering impactful solutions that enhance user experiences. With a collaborative mindset and a drive for innovation, I am always eager to take on new challenges and contribute to cutting-edge projects. Let's connect and embark on exciting data-driven and user-centric journeys together
 
 ### Skills 🎓
-- Data Extraction using <strong>Beautiful Soap</strong> and <strong>Selenium</strong>.
-- Exploratory Data Analysis using <strong>Pandas</strong>.
-- Data Visualization <strong>Matplotlib</strong> and <strong>Seaborn</strong>.
-- Predictive Analytics/Machine Learning (Supervised/Unsupervised) using <strong>Scikit-Learn</strong>.
-- Deep Learning  with <strong>TensorFlow</strong>.
-- Amazon Web Service (AWS) using  <strong>Sagemaker</strong>.
-- Backend Development using <strong>Django</strong> and <strong>Flask</strong>
-- Computer Vission using  <strong>CNN,YOLO2,VGG16,VGG19</strong>
+- Data Analysis (Python, R, SQL)
+- Frontend Development (HTML, CSS, JavaScript, React)
+- Data Visualization (D3.js, Plotly, Matplotlib)
+- Power BI
+- Excel
+- Google Sheets
+- Version Control (Git, GitHub)
+- Problem Solving
+- Team Collaboration
+- User Experience (UX)
+- Agile Development
+- Communication
 
 [instagram]:https://www.instagram.com/asifbashirkhuharo/
 [linkedin]: https://www.linkedin.com/in/asif-ali-9294201b2/
